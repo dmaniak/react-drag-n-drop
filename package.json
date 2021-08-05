@@ -1,0 +1,23 @@
+{
+  "name": "react-drag-n-drop",
+  "version": "0.1.0",
+  "description": "easy to use drag and drop component in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmaniak/react-drag-n-drop.git"
+  },
+  "keywords": [
+    "react",
+    "drag-and-drop"
+  ],
+  "author": "dmaniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmaniak/react-drag-n-drop/issues"
+  },
+  "homepage": "https://github.com/dmaniak/react-drag-n-drop#readme"
+}
